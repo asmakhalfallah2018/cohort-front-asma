@@ -1,4 +1,4 @@
-# Welcome to naister-dashboard-repository 👋
+# Welcome to cohort-react-repository 👋
 
 > A react app that displays merchants and count number of compaigns associated.
 
